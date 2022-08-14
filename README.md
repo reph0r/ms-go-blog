@@ -1,6 +1,6 @@
 # go-blog
 <b>前言:</b>  
-使用原生golang开发博客
+&emsp;使用原生golang开发博客
 
 
 ## 配置版本
