@@ -4,6 +4,7 @@
 
 
 ## 版本
+![image](https://github.com/zhengwenming/WMPlayer/blob/master/WMPlayer/Resource/WMPlayer.gif)
 
 ## 功能
 
