@@ -23,6 +23,9 @@
 - 注意 dao/mysql.go 中的第22行，需要填入自己mysql数据库的账号和密码
 - 账号密码为: admin/admin
 
+首页界面如下所示：
+![图片](https://user-images.githubusercontent.com/102449999/187653610-5a5d8eef-0f38-4584-a1d7-4abf5c4e9f1f.png)
+
 
 
 <details>
