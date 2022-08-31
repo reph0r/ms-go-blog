@@ -27,7 +27,11 @@
 首页界面如下所示：
 ![图片](https://user-images.githubusercontent.com/102449999/187653610-5a5d8eef-0f38-4584-a1d7-4abf5c4e9f1f.png)
 
-
+```
+百度网盘链接：
+链接：https://pan.baidu.com/s/1X99xHapLRlZ2C5fznAOsJg 
+提取码：e1w5
+```
 
 <details>
 <summary><font size="20" color="orange">开发中所遇到的问题</font></summary>
